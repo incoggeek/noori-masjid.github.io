@@ -45,3 +45,13 @@ p {
 .h1-con {
     background-color: #45a049;
 }
+
+.color {
+    color: #45a049;
+}
+
+.col p{
+    color: goldenrod;
+    font-size: large;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
